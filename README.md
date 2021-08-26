@@ -34,3 +34,7 @@ Os codigos deste repositorio não vai te ajudar em nada com seu bot! Aqui so tem
 # O que eu vou achar aqui?
 
 Aqui você so vai achar, npms que eu uso, base dos comandos de imagens, e ate mesmo coisas escondidas que so se acha nos codigos dos meus comandos!
+
+
+# Bejos Bejos
+![by @ranpokes on twitter](https://user-images.githubusercontent.com/84294591/131005149-368994b8-4b28-4bbe-89ab-8d2ba9f636e2.png)
