@@ -3,7 +3,7 @@
 
 # Uma simples bot para o discord!
 
-A Bawer é apenas mis um bot para o discord! Simples, nada de automod/xp/configuração. Apenas um bot onde você pode jogar pedra papel e tesoura com seus amigos ou fazer drops!
+A Bawer é apenas mais um bot para o discord! Simples, nada de automod/xp/configuração. Apenas um bot onde você pode jogar pedra papel e tesoura com seus amigos ou fazer drops!
 
 # Pedra, Papel e Tesoura
 ![nãokk](https://user-images.githubusercontent.com/84294591/131000870-c0347f56-af84-4544-8ebe-503961eef27b.png)
